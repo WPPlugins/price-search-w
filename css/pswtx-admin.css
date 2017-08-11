@@ -1,0 +1,101 @@
+@charset "utf-8";
+
+#pswtx-admin p {
+margin:0;
+}
+
+#pswtx-admin {
+width:98%;
+margin:0 auto;
+}
+
+#pswtx-admin-title {
+width:98%;
+margin:30px auto;
+padding:20px 1%;
+background:#eeeeee;
+border: solid #dbdbdb 1px;
+}
+
+#pswtx-admin-title p.note {
+margin-top:10px;
+color:red;
+}
+
+#pswtx-admin-title input {
+width:280px;
+}
+
+#pswtx-admin-input-text {
+width:98%;
+padding:20px 1%;
+background:#eeeeee;
+border: solid #dbdbdb 1px;
+}
+
+#pswtx-admin-input-text span {
+padding:0 3px 0 5px;
+font-size:150%;
+}
+
+#pswtx-admin-input-text p.note {
+margin-top:10px;
+color:red;
+}
+
+#pswtx-admin-input-check {
+width:98%;
+margin:30px 0 10px;
+padding:20px 1%;
+background:#eeeeee;
+border: solid #dbdbdb 1px;
+}
+
+#pswtx-update {
+width:100%;
+margin-top:30px;
+}
+
+#pswtx-update-in {
+width:30px;
+font-weight:bold;
+float:left;
+}
+
+#pswtx-update form {
+margin-right:10px;
+float:left;
+}
+
+#pswtx-admin-description {
+width:98%;
+margin:30px 0 10px;
+padding:20px 1%;
+background:#eeeeee;
+border: solid #dbdbdb 1px;
+}
+
+#pswtx-admin-description p.note {
+margin-top:10px;
+color:red;
+}
+
+input.pswtx_prices_submit {
+font-size:18px;
+height:40px;
+line-height:40px;
+padding:0 28px;
+background:#c1c1c1;
+border-style:none;
+font-weight:bold;
+cursor:pointer;
+outline:none;
+border-radius:3px;
+-webkit-border-radius:3px;
+-moz-border-radius:3px;
+}
+
+input.pswtx_prices_submit:hover {
+background:#5a5a5a;
+color:#fff;
+}

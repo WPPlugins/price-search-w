@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+/*-----------------------------------------------------------
+pswtx
+------------------------------------------------------------ */
+
+#pswtx-title {
+width:100%;
+margin-bottom:15px;
+float:left;
+}
+
+#pswtx-wrap {
+text-align:left;
+}
+
+#pswtx-wrap p {
+margin:5px 0;
+padding-bottom:2px;
+border-bottom:1px dashed #ccc;
+}
+
+#pswtx-wrap-form {
+width:100%;
+margin:20px 0;
+text-align:left;
+float:left;
+}
+
+#pswtx-price-input {
+margin-bottom:10px;
+}
+
+#pswtx-price-input span {
+padding:0 3px;
+}
+
+/*-----------------------------------------------------------
+pswtx_personal
+------------------------------------------------------------ */
+
+#pswtx-personal {
+width:100%;
+float:left;
+}
+
+#pswtx-personal p {
+margin-right:10px;
+float:left;
+}
